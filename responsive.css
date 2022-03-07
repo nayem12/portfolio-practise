@@ -1,0 +1,24 @@
+@media screen and (max-width: 1000px) {
+    .nav-item
+    {
+        margin: 0;
+    }
+.card_me{
+    grid-template-columns: auto auto;
+}
+
+  }
+
+  @media screen and (max-width: 766px){
+    .p_img
+    {
+        display: none;
+    }
+    .card_me{
+        grid-template-columns: auto;
+    }
+    .item
+    {
+        text-align: center;
+    }
+  }
