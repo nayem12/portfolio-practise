@@ -116,7 +116,7 @@
 .main
 {
     width: 100%;
-    height: 30px;
+    height: 20px;
     background: #523F62;
     margin-bottom: 60px;
     border-radius: 20px;
@@ -124,7 +124,7 @@
 .sub
 {
     width: 50%;
-    height: 30px;
+    height: 20px;
     background: #FF4518;
     
     margin-bottom: 60px;
