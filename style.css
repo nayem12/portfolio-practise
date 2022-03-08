@@ -90,11 +90,11 @@
     background: #ffffff;
     padding: 15px;
     border-radius: 20px;
-    box-shadow: 10px 10px 5px 1px rgb(45, 51, 53);
+    box-shadow: 10px 10px 5px 1px rgba(45, 51, 53, 0.404);
 }
 .gr_bg
 {
-    background: #EEE4E4;
+    background: #cecbcb;
 }
 .item-grid h2 
 {
