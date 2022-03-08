@@ -6,6 +6,16 @@
 .card_me{
     grid-template-columns: auto auto;
 }
+.line
+{
+    display: none;
+}
+.skill_grid
+{
+
+    grid-template-columns: 50% 50%;
+    
+}
 
   }
 
@@ -21,4 +31,14 @@
     {
         text-align: center;
     }
+    .skill_grid
+{
+
+    grid-template-columns: 100%;
+    
+}
+.line
+{
+    display: none;
+}
   }

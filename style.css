@@ -112,3 +112,77 @@
     font-size: 40px;
     color: #FF4518;
 }
+
+.main
+{
+    width: 100%;
+    height: 30px;
+    background: #523F62;
+    margin-bottom: 60px;
+    border-radius: 20px;
+}
+.sub
+{
+    width: 50%;
+    height: 30px;
+    background: #FF4518;
+    
+    margin-bottom: 60px;
+    border-radius: 20px;
+}
+.skill_grid
+{
+    display: grid;
+    grid-template-columns: 49% 2% 49%;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.skill_item
+{
+    margin-right: 50px;
+}
+.skill_bg
+{
+    background-color: #080C3A;
+}
+.skill_item h3
+{
+    margin-top: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.skill_item h4
+{
+ 
+    margin-top: 30px;
+    color: white;
+}
+
+
+
+.skill_item2 h3
+{
+    margin-top: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.skill_item2
+{
+    margin-left: 10px;
+}
+.skill_item2 h4
+{
+ 
+    margin-top: 30px;
+    color: white;
+}
+.line
+{
+    height: 500px;
+    width: 2px;
+    background-color: #e2e2e6;
+    
+}
